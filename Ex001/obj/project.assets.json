@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\GB\\3. Знакомство с языками программироваия\\Лекции\\Repo\\Examples\\Ex001\\Ex001.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\GB\\3. Знакомство с языками программироваия\\Лекции\\Repo\\Examples\\newrep\\Ex001\\Ex001.csproj",
       "projectName": "Ex001",
-      "projectPath": "C:\\Users\\User\\Desktop\\GB\\3. Знакомство с языками программироваия\\Лекции\\Repo\\Examples\\Ex001\\Ex001.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\GB\\3. Знакомство с языками программироваия\\Лекции\\Repo\\Examples\\newrep\\Ex001\\Ex001.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\GB\\3. Знакомство с языками программироваия\\Лекции\\Repo\\Examples\\Ex001\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\GB\\3. Знакомство с языками программироваия\\Лекции\\Repo\\Examples\\newrep\\Ex001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
